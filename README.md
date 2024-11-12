@@ -10,26 +10,22 @@ I am currently learning React.js, and I hope to incorporate it into this project
   * **(Project 1)** Build a responsive landing page using Flexbox and Grid.
   * CSS Transitions, Animations, Pseudo-Classes, and Pseudo-Elements
   * JavaScript Basics: Variables, Data Types, Conditionals, Loops, and Functions
-  * **(Project 2)** Create an interactive photo gallery with CSS animations and JavaScript to toggle image details on click.
   * Practice DOM manipulation (`getElementById`, `querySelector`, etc.) and events (`click`, `mouseover`)
   * Introduction to arrays and objects in JavaScript; use them to manage data on the page
-  * **(Project 3)** Build a simple to-do list where users can add, delete, and mark tasks as completed
   * Deepen understanding of JavaScript functions, scope, and closures.
   * Work with Local Storage to save and load data across sessions
-  * **(Project 4)** Create a budget tracker that saves income and expenses to Local Storage.
+  * **(Project 2)** Create an interactive photo gallery with CSS animations and JavaScript to toggle image details on click.
 
 * **Month 2: Advanced JavaScript Concepts**
   * Review ES6 Syntax: `let`, `const`, arrow functions, template literals
   * Practice array methods (`map`, `filter`, `reduce`, `forEach`) and how they can simplify data manipulation
-  * **(Project 5)** Build a product catalog where users can filter and search items using array methods
+  * **(Project 3)** Build a product catalog where users can filter and search items using array methods
   * Learn the basics of OOP: classes, constructors, methods, inheritance
-  * **(Project 6)** Build a library app where users can add, view, and delete book entries, using classes to create and manage each book
   * Learn about asynchronous JavaScript: callbacks, promises, and async/await
   * Practice fetching data from public APIs using `fetch()` and handling responses
-  * **(Project 7)** Create a weather app that fetches real-time weather data from a public API based on user location
   * Explore JavaScript modules (`import`/`export`) and why modular code is useful
   * Set up a bundler like Webpack or Vite to organize and bundle files
-  * **(Project 8)** Refactor the budget tracker or to-do list from Month 1 to use JavaScript modules
+  * **(Project 4)** Create a weather app that fetches real-time weather data from a public API based on user location
 
 * **Month 3: React and Application Development**
   * Set up a React app using `create-react-app` or Vite. Learn components, JSX, and props.
