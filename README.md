@@ -1,11 +1,11 @@
-# 3 Months Of Front-End Development
+# My Front-End Development CHallenge
 
 Hello everyone! My name is Erick Torres, and I'm an aspiring Software Engineer. My goal is to make this repository into a fully functional portfolio website. I have done other projects in the past, such as creating landing pages and a social media mockup page.
 
 I am currently learning React.js, and I hope to incorporate it into this project once I am skilled enough. With that said, this will be a journal of sorts for the next three months as I work toward mastering Front-End development. Perhaps after this, I'll make a "Three Months of Back-End Development." I plan to add a new text entry to this `README.md` file every week with updates on things I have learned or things I find interesting in my journey.
 ## Project Goals
 
-* **Month 1: Foundations in HTML, CSS, and Basic JavaScript**
+* **Foundations in HTML, CSS, and Basic JavaScript**
   * CSS Flexbox and Grid Basics, Responsive Design Concepts
   * **(Project 1)** Build a responsive landing page using Flexbox and Grid.
   * CSS Transitions, Animations, Pseudo-Classes, and Pseudo-Elements
@@ -16,7 +16,7 @@ I am currently learning React.js, and I hope to incorporate it into this project
   * Work with Local Storage to save and load data across sessions
   * **(Project 2)** Create an interactive photo gallery with CSS animations and JavaScript to toggle image details on click.
 
-* **Month 2: Advanced JavaScript Concepts**
+* **Advanced JavaScript Concepts**
   * Review ES6 Syntax: `let`, `const`, arrow functions, template literals
   * Practice array methods (`map`, `filter`, `reduce`, `forEach`) and how they can simplify data manipulation
   * **(Project 3)** Build a product catalog where users can filter and search items using array methods
@@ -27,7 +27,7 @@ I am currently learning React.js, and I hope to incorporate it into this project
   * Set up a bundler like Webpack or Vite to organize and bundle files
   * **(Project 4)** Create a weather app that fetches real-time weather data from a public API based on user location
 
-* **Month 3: React and Application Development**
+* **React and Application Development**
   * Set up a React app using `create-react-app` or Vite. Learn components, JSX, and props.
   * Practice passing data between components using props and rendering lists.
   * **(Project 9)** Create a contact list app with React, where each contact is displayed as a component.
