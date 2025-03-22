@@ -1,8 +1,8 @@
-# My Front-End Development CHallenge
+# My Front-End Development Challenge
 
 Hello everyone! My name is Erick Torres, and I'm an aspiring Software Engineer. My goal is to make this repository into a fully functional portfolio website. I have done other projects in the past, such as creating landing pages and a social media mockup page.
 
-I am currently learning React.js, and I hope to incorporate it into this project once I am skilled enough. With that said, this will be a journal of sorts for the next three months as I work toward mastering Front-End development. Perhaps after this, I'll make a "Three Months of Back-End Development." I plan to add a new text entry to this `README.md` file every week with updates on things I have learned or things I find interesting in my journey.
+I am currently learning React.js, and I hope to incorporate it into this project once I am skilled enough. With that said, this will be a journal of sorts for the next few months as I work toward mastering Front-End development. Perhaps after this, I'll make a "My Back-End Development challenge." I plan to add a new text entry to this `README.md` file every week with updates on things I have learned or things I find interesting in my journey.
 ## Project Goals
 
 * **Foundations in HTML, CSS, and Basic JavaScript**
