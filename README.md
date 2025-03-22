@@ -44,7 +44,3 @@ Are you up for the challenge? Let’s make it happen!
   * Set up React Router for multi-page navigation, creating routes and links between pages
   * Review React concepts from previous weeks, with extra focus on complex components or state management as needed
   * **(FINAL Project)** Build a portfolio site using React, with pages for About Me, Projects, Contact, and any other necessary sections. Incorporate React Router for navigation and some interactive features.
-
----
-
-I will update this `README.md` file every week with insights and progress. Follow along to see how I grow my skills in front-end development!
