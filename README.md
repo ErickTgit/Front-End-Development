@@ -1,4 +1,4 @@
-#Challenge Yourself: Build Alongside Me!
+# Challenge Yourself: Build Alongside Me!
 
 Hello everyone! My name is Erick Torres, and I’m an aspiring Software Engineer. I am an honors student at MSJC, majoring in Mathematics and Computer Science. This repository is more than just a project—it’s a challenge. My goal is to build a series of projects, including a portfolio website, to sharpen my front-end development skills and document my journey along the way.
 
